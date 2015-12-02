@@ -1,0 +1,23 @@
+
+{
+	"name": "matrix-utils",
+	"description": "Matrix Utilities for NodeJS",
+	"version": "0.0.1",
+	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+	"contributors": [
+		"Hoàng Văn Khải <hvksmr1996@gmail.com>"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ksxnodemodules/matrix-utils.git"
+	},
+	"dependencies": {},
+	"engines": {
+		"node": ">=4.9.0"
+	},
+	"files": [
+		"index.js",
+		"matrix.js"
+	]
+}
